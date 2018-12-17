@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F14B716621C803B50000D035 /* StartOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14B716521C803B50000D035 /* StartOverViewController.swift */; };
 		F1A00B7521943A1200F66840 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A00B7421943A1200F66840 /* AppDelegate.swift */; };
 		F1A00B7721943A1200F66840 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A00B7621943A1200F66840 /* ViewController.swift */; };
 		F1A00B7A21943A1200F66840 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1A00B7821943A1200F66840 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F14B716521C803B50000D035 /* StartOverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartOverViewController.swift; sourceTree = "<group>"; };
 		F1A00B7121943A1200F66840 /* Apple Pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1A00B7421943A1200F66840 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F1A00B7621943A1200F66840 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				F1A00B7421943A1200F66840 /* AppDelegate.swift */,
 				F1A00B7621943A1200F66840 /* ViewController.swift */,
 				F1A00B7821943A1200F66840 /* Main.storyboard */,
+				F14B716521C803B50000D035 /* StartOverViewController.swift */,
 				F1A00BB22194957300F66840 /* Game.swift */,
 				F1A00B7B21943A1300F66840 /* Assets.xcassets */,
 				F1A00B7D21943A1300F66840 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1A00B7721943A1200F66840 /* ViewController.swift in Sources */,
+				F14B716621C803B50000D035 /* StartOverViewController.swift in Sources */,
 				F1A00BB32194957300F66840 /* Game.swift in Sources */,
 				F1A00B7521943A1200F66840 /* AppDelegate.swift in Sources */,
 			);
